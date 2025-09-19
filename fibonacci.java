@@ -4,7 +4,7 @@ class Solution {
     if(num==0 || num ==1) 
         return (int)(num);
     else{
-        for(long i=2;i<num;i++){
+        for(long i=1;i<num;i++){
             
         }
     }
