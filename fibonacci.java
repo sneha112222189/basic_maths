@@ -11,3 +11,11 @@ class Solution {
 
     }
 }
+
+
+class Main{
+  public static void main(String[] args){
+    Solution s = new Soulution();
+    s.fib(4);
+  }
+}
